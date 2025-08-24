@@ -22,7 +22,7 @@ A powerful natural language to SQL/NoSQL query generator built with Python, Fast
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/frn315/QueryForge.gits
 cd queryforge
 ```
 
